@@ -1,0 +1,26 @@
+/* Colors */
+@import './colors.scss';
+
+/* Layouts */
+@import '../layouts/BasicLayout/BasicLayout.scss';
+
+//Pages
+@import '../pages/index.scss';
+@import '../pages/cuenta.scss';
+
+/* Components */
+@import '../components/Header/Header.scss';
+@import '../components/Header/TopBar/TopBar.scss';
+@import '../components/Header/Menu/Menu.scss';
+@import '../components/Modal/BasicModal/BasicModal.scss';
+@import '../components/Auth/LoginForm/LoginForm.scss';
+@import '../components/Cuenta/ChangeNameForm/ChangeNameForm.scss';
+@import '../components/Cuenta/ChangeEmailForm/ChangeEmailForm.scss';
+@import '../components/Cuenta/ChangePasswordForm/ChangePasswordForm.scss';
+@import '../components/ListProps/ListProps.scss';
+@import '../pages/tipos/tipo.scss';
+@import '../components/Pagination/Pagination.scss';
+@import '../components/Prop/HeaderProp/HeaderProp.scss';
+@import '../components/Prop/TabsProp/TabsProp.scss';
+@import '../components/Prop/InfoProp/InfoProp.scss';
+@import '../components/Prop/CarouselScreenshots/CarouselScreenshots.scss';
